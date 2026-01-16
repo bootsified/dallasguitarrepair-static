@@ -1,4 +1,4 @@
-# Dallas Guitar Repair (2016)
+# Dallas Guitar Repair - Prototype (2016)
 
 - Client: Dallas Guitar Repair
 - Agency: Boots
